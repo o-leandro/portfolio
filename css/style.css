@@ -10,7 +10,7 @@ h2 {
   
 /* navbar */
 #navbar {
-  background-color: #0A89FF; /* red */
+  background-color: #3399FF; /* red */
   color: #FFF;
   padding: 0 15px;
   height: 60px;
@@ -92,7 +92,7 @@ h2 {
   
 #about-section {
   text-align: center;
-  background-color: #0A89FF;
+  background-color: #3399FF;
   color: #FFF;
   padding-top: 50px;
   height: 350px;
