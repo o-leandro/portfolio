@@ -10,7 +10,7 @@ h2 {
   
 /* navbar */
 #navbar {
-  background-color: #3399FF; /* red */
+  background-color: #07c8f9; /* red */
   color: #FFF;
   padding: 0 15px;
   height: 60px;
@@ -28,7 +28,7 @@ h2 {
   
 #navbar img {
   height: 40px;
-  transform: rotate(45deg);
+  transform: rotate();
   position: absolute;
   top: 10px;
 }
@@ -80,7 +80,7 @@ h2 {
 }
   
 #banner-info p {
-  background-color: #0A89FF;
+  background-color: #07c8f9;
   font-weight: bold;
   width: 200px;
   margin-right: auto;
@@ -92,7 +92,7 @@ h2 {
   
 #about-section {
   text-align: center;
-  background-color: #3399FF;
+  background: linear-gradient(50deg, rgba(8,125,205,1) 0%, rgba(120,211,251,1) 51%, rgba(7,159,222,1) 100%);
   color: #FFF;
   padding-top: 50px;
   height: 350px;
@@ -205,22 +205,21 @@ h2 {
 }
 
 .proj1 {
-  background-image: url('../img/proj1.jpg');
+  background-image: url('../img/icone-2.png');
 }
 
 .proj2 {
-  background-image: url('../img/proj2.jpg');
+  background-image: url('../img/icone-4.png');
 }
 
 .proj3 {
-  background-image: url('../img/proj3.jpg');
+  background-image: url('../img/icone-5.png');
 }
 
 /* footer */
 footer {
   padding: 50px 0;
-  background-color: #0A89FF;
-  color: #FFF;
+  background: linear-gradient(50deg, rgba(8,125,205,1) 0%, rgba(120,211,251,1) 51%, rgba(7,159,222,1) 100%);
   text-align: center;
 }
 
